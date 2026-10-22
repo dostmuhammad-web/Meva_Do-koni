@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#ecfccb"/><stop offset="0.4" stop-color="#84cc16"/><stop offset="1" stop-color="#3f6212"/></radialGradient></defs>
+  <ellipse cx="200" cy="340" rx="96" ry="16" fill="#0f172a" opacity="0.09"/>
+  <path d="M200 86 C 170 86 158 122 158 152 C 158 180 130 198 118 240 C 102 296 138 340 200 340 C 262 340 298 296 282 240 C 270 198 242 180 242 152 C 242 122 230 86 200 86 Z" fill="url(#body)"/>
+  <path d="M200 90 C 196 68 205 59.2 202 46" stroke="#7a4a22" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <g transform="translate(206 52) rotate(-18) scale(0.62)">
+    <path d="M0 0 C 32 -28 88 -24 112 4 C 82 34 28 30 0 0 Z" fill="url(#leafG)"/>
+    <path d="M8 2 C 44 2 82 4 106 6" stroke="#14532d" stroke-opacity="0.38" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <ellipse cx="164" cy="246" rx="30" ry="44" transform="rotate(-14 164 246)" fill="#ffffff" opacity="0.3"/>
+  <ellipse cx="238" cy="272" rx="40" ry="34" fill="#3f6212" opacity="0.14"/>
+</svg>

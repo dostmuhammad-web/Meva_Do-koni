@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#fed7aa"/><stop offset="0.4" stop-color="#ea580c"/><stop offset="1" stop-color="#9a3412"/></radialGradient></defs>
+  <ellipse cx="200" cy="320" rx="108" ry="13" fill="#0f172a" opacity="0.09"/>
+  <g transform="translate(150 214)">
+        <circle r="62" fill="url(#body)"/>
+        <path d="M-31 -18.599999999999998 C -6.2 -37.199999999999996 24.8 -12.4 27.900000000000002 15.5" stroke="#9a3412" stroke-opacity="0.45" stroke-width="4" fill="none"/>
+        <path d="M-34.1 21.7 C -6.2 38.44 21.7 27.900000000000002 31 3.1" stroke="#9a3412" stroke-opacity="0.4" stroke-width="4" fill="none"/>
+      </g>
+  <g transform="translate(252 232)">
+        <circle r="58" fill="url(#body)"/>
+        <path d="M-29 -17.4 C -5.800000000000001 -34.8 23.200000000000003 -11.600000000000001 26.1 14.5" stroke="#9a3412" stroke-opacity="0.45" stroke-width="4" fill="none"/>
+        <path d="M-31.900000000000002 20.299999999999997 C -5.800000000000001 35.96 20.299999999999997 26.1 29 2.9000000000000004" stroke="#9a3412" stroke-opacity="0.4" stroke-width="4" fill="none"/>
+      </g>
+  <g transform="translate(200 292)">
+        <circle r="52" fill="url(#body)"/>
+        <path d="M-26 -15.6 C -5.2 -31.2 20.8 -10.4 23.400000000000002 13" stroke="#9a3412" stroke-opacity="0.45" stroke-width="4" fill="none"/>
+        <path d="M-28.6 18.2 C -5.2 32.24 18.2 23.400000000000002 26 2.6" stroke="#9a3412" stroke-opacity="0.4" stroke-width="4" fill="none"/>
+      </g>
+</svg>

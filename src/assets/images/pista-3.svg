@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#fbf6e6"/><stop offset="0.4" stop-color="#eaddb4"/><stop offset="1" stop-color="#b09a62"/></radialGradient></defs>
+  <ellipse cx="200" cy="336" rx="112" ry="13" fill="#0f172a" opacity="0.09"/>
+  <g transform="translate(200 220)">
+    <path d="M-78 -34 C -74 -78 -40 -96 0 -96 C 40 -96 74 -78 78 -34 C 80 -6 62 22 34 42 L0 58 L-34 42 C -62 22 -80 -6 -78 -34 Z" fill="url(#body)"/>
+    <path d="M-56 -30 C -52 -64 -28 -78 0 -78 C 28 -78 52 -64 56 -30 C 58 -8 44 12 22 28 L0 40 L-22 28 C -44 12 -58 -8 -56 -30 Z" fill="#8fbf6b"/>
+    <path d="M-40 -26 C -36 -52 -18 -62 0 -62 C 18 -62 36 -52 40 -26 C 42 -8 30 8 14 20 L0 28 L-14 20 C -30 8 -42 -8 -40 -26 Z" fill="#a8d18a"/>
+    <path d="M0 40 L0 58" stroke="#a98f52" stroke-width="5"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#dcfce7"/><stop offset="0.4" stop-color="#16a34a"/><stop offset="1" stop-color="#14532d"/></radialGradient></defs>
+  <ellipse cx="200" cy="336" rx="110" ry="14" fill="#0f172a" opacity="0.09"/>
+  <g transform="translate(148 176) rotate(-40) scale(0.9)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(252 176) rotate(40) scale(0.9)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(140 142) rotate(-12) scale(1)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(262 142) rotate(14) scale(1)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <path d="M84 206 C 84 288 140 320 200 320 C 260 320 316 288 316 206 C 316 198 310 192 302 192 L98 192 C 90 192 84 198 84 206 Z" fill="#f1f5f9"/>
+  <path d="M84 206 C 84 232 88 252 96 268 L304 268 C 312 252 316 232 316 206 C 316 198 310 192 302 192 L98 192 C 90 192 84 198 84 206 Z" fill="url(#body)"/>
+  <path d="M96 214 L304 214" stroke="#ffffff" stroke-opacity="0.5" stroke-width="5" fill="none"/>
+</svg>

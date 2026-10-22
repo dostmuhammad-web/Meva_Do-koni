@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#e2c096"/><stop offset="0.4" stop-color="#b07a45"/><stop offset="1" stop-color="#6f4520"/></radialGradient></defs>
+  <ellipse cx="200" cy="336" rx="116" ry="14" fill="#0f172a" opacity="0.09"/>
+  <g transform="translate(160 210) rotate(-12)">
+        <path d="M0 -56 C 40 -56 56 -26 50 4 C 44 36 20 56 0 56 C -20 56 -44 36 -50 4 C -56 -26 -40 -56 0 -56 Z" fill="url(#body)"/>
+        <path d="M0 -40 C 20 -36 28 -12 20 8 C 12 28 -12 28 -20 8 C -28 -12 -20 -36 0 -40 Z" fill="none" stroke="#6f4520" stroke-opacity="0.5" stroke-width="5"/>
+        <path d="M0 -14 C 12 -10 14 6 8 16" fill="none" stroke="#6f4520" stroke-opacity="0.45" stroke-width="5"/>
+      </g>
+  <g transform="translate(250 236) rotate(14)">
+        <path d="M0 -56 C 40 -56 56 -26 50 4 C 44 36 20 56 0 56 C -20 56 -44 36 -50 4 C -56 -26 -40 -56 0 -56 Z" fill="url(#body)"/>
+        <path d="M0 -40 C 20 -36 28 -12 20 8 C 12 28 -12 28 -20 8 C -28 -12 -20 -36 0 -40 Z" fill="none" stroke="#6f4520" stroke-opacity="0.5" stroke-width="5"/>
+        <path d="M0 -14 C 12 -10 14 6 8 16" fill="none" stroke="#6f4520" stroke-opacity="0.45" stroke-width="5"/>
+      </g>
+</svg>

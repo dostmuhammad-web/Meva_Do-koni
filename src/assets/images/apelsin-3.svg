@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#fdba74"/><stop offset="0.4" stop-color="#ea580c"/><stop offset="1" stop-color="#7c2d12"/></radialGradient></defs>
+  <ellipse cx="200" cy="336" rx="100" ry="17" fill="#0f172a" opacity="0.09"/>
+  <circle cx="200" cy="206" r="106" fill="url(#body)"/>
+  <circle cx="234.0" cy="202.0" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="256.3" cy="214.8" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="272.6" cy="237.1" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="225.4" cy="222.7" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="232.9" cy="245.9" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="229.1" cy="272.5" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="204.1" cy="233.1" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="193.0" cy="255.0" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="170.9" cy="272.5" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="180.7" cy="227.7" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="156.6" cy="237.4" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="127.4" cy="237.1" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="167.0" cy="209.5" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="142.0" cy="202.0" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="120.4" cy="183.9" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="169.9" cy="187.5" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="156.6" cy="166.6" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="153.4" cy="139.9" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="187.9" cy="172.8" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="193.0" cy="149.0" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="209.9" cy="127.1" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="212.1" cy="172.8" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="232.9" cy="158.1" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="261.4" cy="152.0" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="230.1" cy="187.5" r="2.4" fill="#7c2d12" opacity="0.2"/><circle cx="256.3" cy="189.2" r="2.4" fill="#7c2d12" opacity="0.2"/>
+  <circle cx="200" cy="104" r="9" fill="#7c2d12" opacity="0.7"/>
+  <g transform="translate(204 100) rotate(-16) scale(0.7)">
+    <path d="M0 0 C 32 -28 88 -24 112 4 C 82 34 28 30 0 0 Z" fill="url(#leafG)"/>
+    <path d="M8 2 C 44 2 82 4 106 6" stroke="#14532d" stroke-opacity="0.38" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <ellipse cx="150" cy="156" rx="32" ry="42" transform="rotate(-30 150 156)" fill="#ffffff" opacity="0.34"/>
+  <ellipse cx="262" cy="252" rx="52" ry="46" fill="#7c2d12" opacity="0.14"/>
+</svg>

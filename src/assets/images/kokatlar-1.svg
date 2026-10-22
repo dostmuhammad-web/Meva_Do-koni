@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><radialGradient id="body" cx="0.34" cy="0.26" r="0.9"><stop offset="0" stop-color="#bbf7d0"/><stop offset="0.4" stop-color="#16a34a"/><stop offset="1" stop-color="#14532d"/></radialGradient></defs>
+  <ellipse cx="200" cy="336" rx="96" ry="14" fill="#0f172a" opacity="0.09"/>
+  <g transform="translate(130 200) rotate(-46) scale(1)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(270 200) rotate(46) scale(1)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(120 168) rotate(-16) scale(1.15)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(280 168) rotate(16) scale(1.15)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <g transform="translate(200 150) rotate(0) scale(1.25)">
+      <path d="M0 0 C 30 -30 92 -30 124 0 C 92 30 30 30 0 0 Z" fill="url(#leafG)"/>
+      <path d="M6 0 C 46 0 92 0 118 0" stroke="#14532d" stroke-opacity="0.35" stroke-width="3" fill="none"/>
+    </g>
+  <path d="M200 150 C 196 220 200 280 200 320" stroke="#2f6b28" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <path d="M200 300 C 186 316 174 322 162 324" stroke="#2f6b28" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M200 300 C 214 316 226 322 238 324" stroke="#2f6b28" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

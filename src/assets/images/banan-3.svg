@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" fill="none">
+  <defs><linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#63b967"/><stop offset="1" stop-color="#1d7a3c"/>
+  </linearGradient><linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fef9c3"/><stop offset="0.45" stop-color="#eab308"/><stop offset="1" stop-color="#854d0e"/></linearGradient></defs>
+  <ellipse cx="210" cy="340" rx="120" ry="16" fill="#0f172a" opacity="0.09"/>
+  <path d="M96 128 C 84 216 142 300 232 300 C 288 300 326 280 338 252 C 314 268 284 274 254 262 C 190 236 154 188 156 124 C 136 112 108 112 96 128 Z" fill="url(#body)"/>
+  <path d="M120 140 C 116 208 160 262 226 274" stroke="#854d0e" stroke-opacity="0.28" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M138 132 C 134 196 172 242 232 258" stroke="#fff" stroke-opacity="0.35" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M96 128 C 90 116 98 104 112 100 L 118 116 Z" fill="#854d0e"/>
+  <path d="M330 258 C 340 252 346 244 344 236 C 334 240 326 248 324 256 Z" fill="#854d0e"/>
+</svg>
